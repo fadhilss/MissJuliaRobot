@@ -21,7 +21,7 @@ Can be found on telegram as [Julia](https://t.me/MissJuliaRobot)
 
 Deploy Julia to Heroku:
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/cancinconntg/MissJuliaRobot/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/fadhilss/MissJuliaRobot/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 For any assistance you may join our OT chat [here](https://t.me/MissJuliaRobotOT)<br />
 You may get ban if you ask how to deploy in our support chat.
@@ -34,7 +34,7 @@ You may get ban if you ask how to deploy in our support chat.
 - [@MissJuliaRobotMP4](https://t.me/MissJuliaRobotMP4)
 - [@MissJuliaRobotGbans](https://t.me/MissJuliaRobotGbans)
 
-## Credits
+## Credits 
 **Thanks to these projects which helped me a lot to make this awesome bot**
 
 - [Uniborg](https://github.com/SpEcHiDe/UniBorg)<br />
