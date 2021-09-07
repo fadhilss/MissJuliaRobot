@@ -14,10 +14,10 @@
   "author": "Saygısızlar Yönetim Botu",
   "license": "AGPL 3.0",
   "dependencies": {
-    "express": "4.0.0"
+    "express": "7.22.0"
   },
   "engines": {
-    "node": "4.0.0",
+    "node": "7.22.0",
     "npm": "1.4.0"
   }
 }
